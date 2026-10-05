@@ -13,7 +13,7 @@ A simple project created to demonstrate GitHub repository creation and README do
 
 ## Screenshot
 
-![GitHub Repository](https://via.placeholder.com/800x400)
+![GitHub Repository](./Screenshot%202026-10-05%20110143.png)
 
 ## Installation
 
